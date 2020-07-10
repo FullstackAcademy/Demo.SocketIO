@@ -10,6 +10,7 @@
 ## Do This Other Thing Also
 
 - 💻  Install [ngrok](https://ngrok.com/download)
+- 🏃‍♀️  Run ngrok: `ngrok http 8080`
 - 🔗  Once it gives you a unique URL, send that URL to the audience
 - 🚔  Tell them not to type anything into the form that they wouldn't want The Man to see
 - 🤯  Watch as their form submissions appear on your screen in real time!
